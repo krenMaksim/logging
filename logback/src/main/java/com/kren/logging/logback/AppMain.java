@@ -8,5 +8,6 @@ public class AppMain {
 
 	public static void main(String[] args) {
 		logger.debug("Hello world.");
+		logger.info("Hello world.");
 	}
 }
